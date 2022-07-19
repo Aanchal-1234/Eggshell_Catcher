@@ -2,18 +2,13 @@
 Hi I made this project of <b>Eggshell Catcher </b> during the 7 Days Free Bootcamp, conducted by <b> TechWave
 </b>.
 <br>
-<div>
-## About the Project
-<br>
-This is the traditional egg catching game made in Python using Tkinter as GUI library. The user can make the basket move both sides using the arrow keys to collect as many eggs as he/she can which is the scoring factor.
-</div>
 
-<br>
-<div>
+## About the project
+This is the traditional egg catching game made in Python using Tkinter as GUI library. The user can make the basket move both sides using the arrow keys to collect as many eggs as he/she can which is the scoring factor.
+
 ## Tech stack Used
-<li>Python
-</div>
-<br>
+<li> Python </li>
+ 
 ## How to play the game?
 <li>As you run the program, game will automatically start.
 <li>Catch all the falling eggs.
@@ -21,8 +16,6 @@ This is the traditional egg catching game made in Python using Tkinter as GUI li
 <li>If an egg misses basket, you lose a life.
 <li>After 3 lifes are over, you lose.
 <br>
-
-
 
 Follow TechWave on: 
 <li><a href=
